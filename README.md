@@ -128,6 +128,17 @@ ACE05-related data are not included in this repository due to licensing restrict
 
 To avoid potential compliance issues, we do not publicly release any ACE05-derived text data at this time. Users interested in reproducing the ACE-related parts of this project should obtain ACE05 through the official distribution channels and prepare the data locally.
 
+### Update on ACE-related Desensitized Files
+
+The following files are temporarily withheld from public release:
+
+- `s2_merge_ace_swig_sft_llava_sft_desensitized.json`
+- `s1_textual_event_schema_data_desensitized.json`
+
+Although preliminary desensitization has been applied, the current version may still be insufficient for safe public dissemination under potential licensing and compliance considerations. Therefore, these files are not included in the current public repository release.
+
+We are actively investigating improved desensitization methods and will consider releasing an updated public version once a more reliable solution is available.
+
 ## License
 
 This project is released under the **MIT License** (see [LICENSE](LICENSE)).
